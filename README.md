@@ -145,8 +145,7 @@ class AbhijeetKatta:
 
 A sophisticated debate simulation system where multiple AI agents argue opposing viewpoints using LangGraph's state machine framework.
 
-    </td>
-    <td width="33%" align="center">
+
 
 ### 🚦 FlowCycle AI
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kattaabhijeet&repo=FlowCycle-AI&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/kattaabhijeet/FlowCycle-AI)
