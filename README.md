@@ -154,8 +154,7 @@ A sophisticated debate simulation system where multiple AI agents argue opposing
 
 Intelligent Traffic Monitoring & Control System using real-time computer vision to analyze and optimize traffic flow dynamically.
 
-    </td>
-    <td width="33%" align="center">
+
 
 ### 📄 AI Document Extractor
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kattaabhijeet&repo=AI-Document-Extractor&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/kattaabhijeet/AI-Document-Extractor)
@@ -164,7 +163,7 @@ Intelligent Traffic Monitoring & Control System using real-time computer vision 
 
 Automated PDF Intelligence & Data Structuring System — extracts, understands, and structures information from complex documents.
 
-    </td>
+
   </tr>
 </table>
 </div>
