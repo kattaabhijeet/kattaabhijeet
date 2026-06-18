@@ -179,7 +179,7 @@ Automated PDF Intelligence & Data Structuring System — extracts, understands, 
     <td>🏫</td>
     <td><strong>Amrita Vishwa Vidyapeetham</strong></td>
     <td>B.Tech – Electronics & Computer Engineering</td>
-    <td><code>2022 – 2026</code></td>
+    <td><code>2023 – 2027</code></td>
   </tr>
 </table>
 
@@ -192,7 +192,7 @@ Automated PDF Intelligence & Data Structuring System — extracts, understands, 
     <td>🏢</td>
     <td><strong>Banao Technologies</strong></td>
     <td>AI Developer Intern — Building production-grade multi-agent AI systems, LangGraph workflows, and MCP server integrations</td>
-    <td><code>2025 – Present</code></td>
+    <td><code>2026 – Present</code></td>
   </tr>
 </table>
 
