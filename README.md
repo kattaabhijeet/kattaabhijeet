@@ -36,7 +36,7 @@ class AbhijeetKatta:
     role       = "AI Developer | Agentic AI Engineer"
     education  = "B.Tech – Electronics & Computer Engineering"
     university = "Amrita Vishwa Vidyapeetham"
-    location   = "India 🇮🇳"
+    location   = "Banglore,Urban"
     
     passion    = [
         "Building Agentic AI Systems that think & act autonomously",
