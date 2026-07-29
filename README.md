@@ -139,7 +139,7 @@ class AbhijeetKatta:
     <td width="33%" align="center">
 
 ### 🤖 Multi-Agent Debate System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kattaabhijeet&repo=Multi-Agent_Debate_System&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/kattaabhijeet/Multi-Agent_Debate_System)
+[![Readme Card](https://ghrs.vercel.app/api/pin/?username=kattaabhijeet&repo=Multi-Agent_Debate_System&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/kattaabhijeet/Multi-Agent_Debate_System)
 
 **LangGraph · Multi-Agent · State Machine**
 
@@ -148,7 +148,7 @@ A sophisticated debate simulation system where multiple AI agents argue opposing
 
 
 ### 🚦 FlowCycle AI
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kattaabhijeet&repo=FlowCycle-AI&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/kattaabhijeet/FlowCycle-AI)
+[![Readme Card](https://ghrs.vercel.app/api/pin/?username=kattaabhijeet&repo=FlowCycle-AI&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/kattaabhijeet/FlowCycle-AI)
 
 **YOLOv8 · OpenCV · Computer Vision**
 
@@ -157,7 +157,7 @@ Intelligent Traffic Monitoring & Control System using real-time computer vision 
 
 
 ### 📄 AI Document Extractor
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kattaabhijeet&repo=AI-Document-Extractor&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/kattaabhijeet/AI-Document-Extractor)
+[![Readme Card](https://ghrs.vercel.app/api/pin/?username=kattaabhijeet&repo=AI-Document-Extractor&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/kattaabhijeet/AI-Document-Extractor)
 
 **RAG · LangChain · PDF Intelligence**
 
