@@ -45,7 +45,7 @@ class AbhijeetKatta:
         "Computer Vision – making machines see & understand",
     ]
     
-    currently  = "Interning @ Banao Technologies → building AI agent systems"
+    
     open_to    = ["AI Research Collaborations", "Open Source", "Internships"]
     
     def say_hi(self):
