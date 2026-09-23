@@ -45,7 +45,6 @@ class AbhijeetKatta:
         "Computer Vision – making machines see & understand",
     ]
     
-    
     open_to    = ["AI Research Collaborations", "Open Source", "Internships"]
     
     def say_hi(self):
